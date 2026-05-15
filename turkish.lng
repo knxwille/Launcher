@@ -1,0 +1,10 @@
+TITLE=Taşınabilir Başlatıcı
+CHANGE_DIR=Dizini Değiştir
+REFRESH=Yenile
+SEARCH_HINT=Uygulama ara...
+DIR_LABEL=Dizin: %ls
+EDIT_PATH=Uygulama Yolunu Düzenle
+OPEN_FOLDER=Dosya Konumunu Aç
+TRAY_SHOW=Göster
+TRAY_EXIT=Kapat
+SELECT_EXE=Uygulama Dosyaları

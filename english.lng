@@ -1,0 +1,10 @@
+TITLE=Portable Launcher
+CHANGE_DIR=Change Directory
+REFRESH=Refresh
+SEARCH_HINT=Search apps...
+DIR_LABEL=Directory: %ls
+EDIT_PATH=Edit App Path
+OPEN_FOLDER=Open File Location
+TRAY_SHOW=Show
+TRAY_EXIT=Exit
+SELECT_EXE=Executable Files
